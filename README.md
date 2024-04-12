@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit75757&label=Profile%20views&color=0e75b6&style=flat" alt="sumit75757" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/sumitpatel2504" target="blank"><img src="https://img.shields.io/twitter/follow/sumitpatel2504?logo=twitter&style=for-the-badge" alt="sumitpatel2504" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<p align="left"> <a href="https://twitter.com/sumitpatel2504" target="blank"><img src="https://img.shields.io/twitter/follow/sumitpatel2504?logo=twitter&style=for-the-badge" alt="sumitpatel2504" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs and node js**
 
