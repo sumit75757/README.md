@@ -1,15 +1,16 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm sumit patel</h1>
-<h3 align="center">A passionate node js developer from India</h3>
+<h3 align="center">A passionate Full-stack Node.js Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit75757&label=Profile%20views&color=0e75b6&style=flat" alt="sumit75757" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/sumitpatel2504" target="blank"><img src="https://img.shields.io/twitter/follow/sumitpatel2504?logo=twitter&style=for-the-badge" alt="sumitpatel2504" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning **Reactjs and node js**
 
-- 💬 Ask me about **react, angular, next js, nest js, node**
+- 💬 Ask me about **React, Angular, Next js, Nest js, Node**
 
 - 📫 How to reach me **patelsumit75757@gmail.com**
 
@@ -19,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/sumitpatel2504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumitpatel2504" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/sumit-patel-b5ba92223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-patel-b5ba92223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumit-patel-b5ba92223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-patel-b5ba92223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
     <a href="https://instagram.com/_.sumit._00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sumit._00" height="30" width="40" /></a>
 </p>
 
