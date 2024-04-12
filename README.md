@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWpibGhkMGFnYzN0N2hjNHMwdGE5cGIyNjkzNHNyanVvNnRicm1iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm sumit patel</h1>
 <h3 align="center">A passionate Full-stack Node.js Developer from India</h3>
 
@@ -6,7 +6,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/sumitpatel2504" target="blank"><img src="https://img.shields.io/twitter/follow/sumitpatel2504?logo=twitter&style=for-the-badge" alt="sumitpatel2504" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 - 🌱 I’m currently learning **Reactjs and node js**
 
